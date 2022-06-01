@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         webView.init(new UrlBarController(urlEdit));
-        webView.loadUrl("https://www.ztemall.com/m/");
+        webView.loadUrl("https://te3.ztemall.com/mtest/");
     }
 
     @Override
